@@ -1,0 +1,1 @@
+This just a simple "Rock, Paper, Scissors" console game with ASCII art. Credit to @wynand1004 for the art!
